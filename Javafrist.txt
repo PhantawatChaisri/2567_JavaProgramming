@@ -1,0 +1,13 @@
+import javax.swing.*;
+public class Fristprogram
+{
+  public static void main(Static[] args)
+  {
+     System.out.printIn("studentId : 2413111044" +   
+                        "\nstudentname : Phantawat Chaisri" + 
+                        "\nTopic : github\ndate : 11/20/2024");
+     JOption.showMessageDialog(null,"studentId : 2413111044 " + 
+                                     "studentname : Phantawat Chaisri" + 
+                                    "Topic : github"
+  {                                   "date : 11/20/2024")
+{
