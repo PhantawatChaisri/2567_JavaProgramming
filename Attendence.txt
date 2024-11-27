@@ -1,4 +1,4 @@
 studentId : 2413111044
 studendentName : Phantawat Chaisri
-Topic : github
-date : 11/20/2024
+Topic : LabSheet#1: Display, Variable and Input
+date : 11/27/2024
