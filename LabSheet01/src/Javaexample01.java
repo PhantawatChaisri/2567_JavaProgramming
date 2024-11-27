@@ -15,7 +15,7 @@ public class Javaexample01 {
 		System.out.println();
 		float totalPriceofProduct = productUnit * productPrice;
 		System.out.println("Total Price is "+totalPriceofProduct+"baht.");
-		float totalwithVat = totalPriceofProduct + (totalPriceofProduct *7/100)
+		float totalwithVat = totalPriceofProduct + (totalPriceofProduct *7/100);
 		System.out.println("Add VAT 7% is"+ frm.format(totalwithVat) +  "baht.");
 		System.out.println();
 		String frmtotalwithVat = String.format("%,.2f");
