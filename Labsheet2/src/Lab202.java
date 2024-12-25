@@ -1,14 +1,27 @@
 import java.util.*;
+
 public class Lab202 {
 
 	public static void main(String[] args) {
+
 		Scanner input = new Scanner(System.in);
-		
-		int number;
-		
 		System.out.print("Input number : ");
-		number = input.nextInt();
-		
+		int num1 = input.nextInt();
+
+		while(true)
+		{
+			System.out.print("Input number : ");
+			int num2 = input.nextInt();
+			if(num2<num1)
+			{
+				break;
+			}
+			num1 = num2;
+		}
+		System.out.print("\nBYE BYE ");
+                
+                input.close();
+
 	}
 
 }
