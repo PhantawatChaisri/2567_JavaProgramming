@@ -1,4 +1,4 @@
 studentId : 2413111044
 studendentName : Phantawat Chaisri
-Topic : LabSheet#5 
-date : 12/25/2024/2024
+Topic :  LabSheet06_ClassandObject
+date : 1/15/2025
