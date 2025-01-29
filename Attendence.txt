@@ -1,4 +1,4 @@
 studentId : 2413111044
 studendentName : Phantawat Chaisri
-Topic :  Lab Sheet #7: Encapsulation Concept
-date : 1/22/2025
+Topic :  Lab Sheet #8: - Array Object - Composition Concept
+date : 1/29/2025
